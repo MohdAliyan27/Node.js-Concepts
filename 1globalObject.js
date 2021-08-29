@@ -1,4 +1,4 @@
 var x=3;
 console.log(x);
 
-Short
+// console.log is a global Object also setTimeout, clearTimeout, clearInterval and setInterval
