@@ -1,4 +1,4 @@
-//Mail sent 
+//Mail sent here
 var nodemailer = require('nodemailer');
 
 let transporter = nodemailer.createTransport(
