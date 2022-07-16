@@ -27,8 +27,4 @@ transporter.sendMail(mailOptions, function(error, info){
     console.log('Email sent: ' + info.response);
  }
 
-//end
-Demo
-2
-3
-45
+//end.
